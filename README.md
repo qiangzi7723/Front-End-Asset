@@ -5,7 +5,8 @@
 - http://fex.baidu.com/ 百度周刊
 - https://weekly.75team.com/ 奇舞周刊
 - https://zhuanlan.zhihu.com/FrontendMagazine 前端外刊评论
-- http://www.alloyteam.com/
+- http://www.alloyteam.com/ 腾讯
+- https://aotu.io/ 京东
 
 Github博客
 
@@ -22,8 +23,15 @@ Github博客
 
 - http://justjavac.com/
 - http://harttle.com/ 
+- http://zhouweicsu.github.io/blog/
 
 2017前端规划
 
 - https://github.com/kamranahmedse/developer-roadmap
+
+其他资源
+
+- https://github.com/verekia/js-stack-from-scratch
+- https://github.com/bpesquet/thejsway
+- https://github.com/denysdovhan/wtfjs
 
