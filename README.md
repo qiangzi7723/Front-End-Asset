@@ -7,6 +7,7 @@
 - https://zhuanlan.zhihu.com/FrontendMagazine 前端外刊评论
 - http://www.alloyteam.com/ 腾讯
 - https://aotu.io/ 京东
+- http://taobaofed.org/ 淘宝
 
 Github博客
 
@@ -18,6 +19,7 @@ Github博客
 - https://github.com/markyun/My-blog 中兴
 - https://github.com/cssmagic/blog 魔法哥
 - https://github.com/fouber/blog 张云龙
+- https://github.com/daochouwangu/webfrontdaily 个人收集的前端日报
 
 个人网站
 
