@@ -20,12 +20,14 @@ Github博客
 - https://github.com/cssmagic/blog 魔法哥
 - https://github.com/fouber/blog 张云龙
 - https://github.com/daochouwangu/webfrontdaily 个人收集的前端日报
+- https://github.com/xufei/blog 徐飞
 
 个人网站
 
 - http://justjavac.com/
 - http://harttle.com/ 
 - http://zhouweicsu.github.io/blog/
+- http://yangfch3.com/
 
 2017前端规划
 
@@ -36,4 +38,8 @@ Github博客
 - https://github.com/verekia/js-stack-from-scratch
 - https://github.com/bpesquet/thejsway
 - https://github.com/denysdovhan/wtfjs
+
+编程练习
+
+- http://www.acmcoder.com/index
 
