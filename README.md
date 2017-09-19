@@ -43,3 +43,11 @@ Github博客
 
 - http://www.acmcoder.com/index
 
+性能测试
+
+- https://jsperf.com/
+
+开源书籍
+
+- https://github.com/ryanmcdermott/clean-code-javascript 好书
+
